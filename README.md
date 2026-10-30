@@ -7,7 +7,7 @@ Hackintosh macOS 26 system EFI driver configuration file based on MSI Mortar B66
 
 ### [English](README.EN.md)
 
-[OpenCore 1.0.0](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 1.0.9](https://github.com/acidanthera/OpenCorePkg)
 
 ### 可安装系统
 - macOS Tahoe 26.7.2
@@ -16,13 +16,13 @@ Hackintosh macOS 26 system EFI driver configuration file based on MSI Mortar B66
 ### 硬件配置
 
 | 配置        | 型号                                                        |
-| ----------- |-------------------------------------------------------------|
+|-------------|-------------------------------------------------------------|
 | CPU         | 英特尔 13th Gen Intel Core i9-13900KF(ES Q0NW)              |
 | 主板        | 微星 MSI MAG B660M MORTAR WiFi DDR4                         |
 | 显卡        | AMD Radeon RX6600 Series ( 8 GB / 华硕DUAL雪豹 )            |
 | 内存        | 96GB (金士顿野兽 DDR4 3200MHz)                              |
-| SSD         | 西数 WDS100T1X0E-00AFY0 (黑盘 SN850) (固态硬盘) 1TB --MacOS |
-|             | 西数 WD_BLACK SN770 500GB (固态硬盘) --Windows11            |
+| SSD1        | 西数 WDS100T1X0E-00AFY0 (黑盘 SN850) (固态硬盘) 1TB --MacOS |
+| SSD2        | 西数 WD_BLACK SN770 500GB (固态硬盘) --Windows11            |
 | 机箱        | 九州风神 玄冰40 3F                                          |
 | 电源        | 爱国者 ES650 650W                                           |
 | CPU 风扇    | 利民 PA120 SE 塔式                                          |
